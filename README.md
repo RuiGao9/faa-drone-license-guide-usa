@@ -11,10 +11,13 @@
 Notes: the repository name on my GitHub account is `faa-drone-license-guide-usa`. This is a comprehensive, step-by-step guide on how to obtain an FAA-certificated license in USA (Part 107) within **two weeks**. This repository includes structured study plans, key resources, and proven strategies for rapid certification.
 
 ## 📚 Materials For Learning Knowledge
+
 - **Remote Pilot Test Prep 2025-2026:** The primary textbook for your preparation. It is highly recommended to study this guide cover-to-cover. <br>
+
 - **Prepware Software:** An essential companion to the textbook. Once you have finished reading, using this software for mock exams is a mandatory step to ensure test readiness.
-- Most test inforamtion can be found [here].<br>
+
 - **Essential Exam Information:** Please refer to the [Detailed Pre-Test Guide (PDF)](Read_Before_Taking_the_Test.pdf) for critical insights and logistics you must know before heading to the test center.
+
 <div align="center">
   <img src="image.png" alt="alt text" width="300"><br>
   <sub><i>Figure 1: Mandatory study material for Part 107. The content from a book called Airman Knowledge Testing Supplement for Sport Pilot, Recreational Pilot, Remote Pilot, and Private Pilot is included.</i></sub>
