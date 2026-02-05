@@ -1,4 +1,5 @@
-
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18500538.svg)](https://doi.org/10.5281/zenodo.18500538)
+![Visitors Badge](https://visitor-badge.laobi.icu/badge?page_id=RuiGao9.faa-drone-license-guide-usaaa)
 
 # Fast-Track Guide: FAA-Certificated License in USA Within Two Weeks
 <p align="center">Rui Gao<sup>1,2</sup></p>
@@ -28,4 +29,4 @@ Notes: the repository name on my GitHub account is `faa-drone-license-guide-usa`
 ## 🎓 Citation
 If this guide helped you get your license, feel free to share it or cite it using the following format:
 
-Rui Gao. (2026). *Fast-Track Guide: FAA-Certificated License in USA Within Two Weeks*. Zenodo. https://doi.org/10.5281/zenodo.xxxxxxx
+Rui Gao. (2026). *Fast-Track Guide: FAA-Certificated License in USA Within Two Weeks*. Zenodo. https://doi.org/10.5281/zenodo.18500538
