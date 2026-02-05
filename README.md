@@ -1,7 +1,7 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18500538.svg)](https://doi.org/10.5281/zenodo.18500538)
 ![Visitors Badge](https://visitor-badge.laobi.icu/badge?page_id=RuiGao9.faa-drone-license-guide-usaaa)
 
-# Fast-Track Guide: FAA-Certificated License in USA Within Two Weeks
+# Fast-Track Guide: FAA-Certificated License in the USA Within Two Weeks
 <p align="center">Rui Gao<sup>1,2</sup></p>
 <sup>1</sup>Department of Civil and Environmental Engineering, University of California, Merced, CA 95343, USA<br>
 <sup>2</sup>Valley Institute for Sustainable Technology & Agriculture, University of California, Merced, CA 95343, USA<br>
