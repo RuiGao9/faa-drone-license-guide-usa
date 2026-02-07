@@ -35,6 +35,6 @@ If this guide helped you get your license, feel free to share it or cite it usin
 Rui Gao. (2026). *Fast-Track Guide: FAA-Certificated License in USA Within Two Weeks*. Zenodo. https://doi.org/10.5281/zenodo.18500538
 
 ## 🔄 Repository Update Information
-- Creation date: 2026-02-04
-- Last update: 2026-02-07
+- Initial Release: 2026-02-04
+- Last Synchronized: 2026-02-07
 
